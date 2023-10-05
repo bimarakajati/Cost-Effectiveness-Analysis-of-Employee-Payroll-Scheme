@@ -5,7 +5,7 @@ In its 7th year, **The Bloom Company** is planning to reassess their budget allo
 
 My role involves analyzing whether **The Bloom Company** current payroll system for Bloomers (**The Bloom Company** employees), which is structured on a monthly basis, is cost-effective in terms of hourly rates. This analysis is conducted for each office branch individually and is performed on a monthly basis.
 
-# SQL
+# SQL Analysis
 - [Employee That Need To Get Layoff](SQL/Employee-That-Need-To-Get-Layoff.sql)
 - [Payroll Scoring Effectiveness](SQL/Payroll-Scoring-Effectiveness.sql)
 
